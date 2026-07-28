@@ -1,0 +1,6 @@
+{
+  "name": "捏捏手作記帳與定價助手",
+  "description": "專為手作捏捏（Squishy）創作者打造的iOS風格庫存、耗材成本分攤、自動定價計算與收支記帳App，支援Excel報表匯出與利潤率分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
